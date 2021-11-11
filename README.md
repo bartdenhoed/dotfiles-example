@@ -1,0 +1,1 @@
+This repository is part of my personal wiki: https://github.com/bartdenhoed/wiki/
